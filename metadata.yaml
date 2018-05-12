@@ -1,0 +1,32 @@
+_repo: Five-Plays_41311
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41311-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: ''
+gutenberg_issued: '2012-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama'
+tableOfContents: The gods of the mountain -- The golden doom -- King Argimenes and
+  the unknown warrior -- The glittering gate -- The lost silk hat.
+title: Five Plays
+url: http://www.gutenberg.org/ebooks/41311
